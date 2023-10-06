@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @Samarjeet-singh-chhabra
+- 👋 Hi, I’m @Samarjeet-singh-chhabra a Data Scientist
 - 👀 I’m interested in Robotics and ML-AI
-- 🌱 I’m currently learning Machine Learning and Full Stack Development.
-- 💞️ I’m looking to collaborate on ML, AI and Web-Development.
-- 👀 I love Product development, UI/UX designing.
+- 🌱 I’m currently learning Deep Learning and NLP.
+- 💞️ I’m looking to collaborate on ML and AI.
+- 👀 I love end to end Machine learning Models and Tools Developement.
 - 📫 How to reach me 
 
 <!-- Please don't remove this: Grab your social icons from https://github.com/carlsednaoui/gitsocial -->
