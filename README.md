@@ -1,8 +1,13 @@
 -👋 Hi, I’m Samarjeet Singh Chhabra, a Data Scientist passionate about Robotics and AI/ML projects.
+
 -🔍 Interests: Robotics, AI/ML, LLMs, NLP, End-to-End ML Models, AI Tool Development
+
 -🌱 Exploring: Advanced NLP and LLM applications
+
 -🤝 Collaborate: Open to ML and AI project collaborations
+
 -📫 Connect: Reach out for collaboration or discussion
+
 
 <!-- Please don't remove this: Grab your social icons from https://github.com/carlsednaoui/gitsocial -->
 <!-- display the social media buttons in your README -->
